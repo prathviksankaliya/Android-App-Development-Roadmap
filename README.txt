@@ -1,4 +1,7 @@
- Beginner Level Topics (Neat Roots , Smarthurd , WsCube ):
+							 Android App Development Roadmap by Prathvik
+							
+							
+Beginner Level Topics (Neat Roots , Smarthurd , WsCube ):
 
 	1. Activity 
 	2. Layouts - Linear Layout, Constraint Layout, Relative, Grid layout, etc.
@@ -116,14 +119,14 @@
 
 
 
-						** Practice is the key point of success **
+							** Practice is the key point of success **
 
 
 
 
 
 							IT CRAFT SOLUTION	
-					          	         Created By: Prathvik A. Sankaliya
+					         Created By: Prathvik A. Sankaliya
 
 
 
